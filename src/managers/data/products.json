@@ -1,0 +1,35 @@
+[ 
+{
+    "id": 1,
+    "title":"Samsung Galaxy S24",
+    "description":"Android",
+    "price": 1189,
+    "thumbnail":[],
+    "code": "123",
+    "stock": 17,
+    "category": "Celular",
+    "status":true
+},
+{
+    "id": 2,
+    "title":"iPhone 13 Pro Max",
+    "description":"Apple",
+    "price": 1499,
+    "thumbnail":[],
+    "code": "456",
+    "stock": 10,
+    "category": "Celular",
+    "status":true
+},
+{
+    "id": 3,
+    "title":"Xiaomi Mi 11",
+    "description":"Mi",
+    "price": 899,
+    "thumbnail":[],
+    "code": "789",
+    "stock": 20,
+    "category": "Celular",
+    "status":true
+}
+]

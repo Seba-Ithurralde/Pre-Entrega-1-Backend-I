@@ -1,0 +1,27 @@
+{
+  "name": "preentrega-1-backend-i",
+  "version": "1.0.0",
+  "description": "preentrega 1 backend",
+  "main": "persona.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seba-Ithurralde/Pre-Entrega-1-Backend-I.git"
+  },
+  "author": "Sebastian Ithurralde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seba-Ithurralde/Pre-Entrega-1-Backend-I/issues"
+  },
+  "homepage": "https://github.com/Seba-Ithurralde/Pre-Entrega-1-Backend-I#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "moment": "^2.30.1",
+    "preentrega-1-backend-i": "file:",
+    "uuid": "^11.0.3"
+  }
+}
